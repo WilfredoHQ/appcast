@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>FractalUp Versions</title>
+
+    <item>
+      <title>Version 0.119.0 (Windows)</title>
+      <description>Actualización estable con mejoras y correcciones.</description>
+      <pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://fuencrypt.fractalup.com/versions/FU_26-12-25_0.119.0.exe"
+        sparkle:version="0.119.0" 
+        sparkle:os="windows"
+        length="594534384" 
+        type="application/octet-stream" />
+    </item>
+
+    <!-- <item>
+      <title>Version 0.119.0 (macOS)</title>
+      <description>Actualización estable con mejoras y correcciones.</description>
+      <pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate>
+      <enclosure 
+        url=""
+        sparkle:version="0.119.0" 
+        sparkle:os="macos"
+        length="0" 
+        type="application/octet-stream" />
+    </item> -->
+  </channel>
+</rss>
